@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
 	// write your code here
-        System.out.println("This is Pavan Gole");
         String url = "jdbc:mysql://localhost:3306/student";
         String username = "root";
         Scanner in = new Scanner(System.in);
